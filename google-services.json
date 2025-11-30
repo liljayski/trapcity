@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239819115754",
+    "project_id": "trapcity-alpha",
+    "storage_bucket": "trapcity-alpha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239819115754:android:3d0ea1889004b046e71b93",
+        "android_client_info": {
+          "package_name": "com.trapcity.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDIC2EHELjPeVHAsQ9W32nAORArsSZqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
